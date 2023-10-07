@@ -14,7 +14,7 @@ This executable application was developed as a final project for a Computer Scie
 
 ### Installation and Execution
 
-1. **Download the Executable:** Download the executable file through the link below:
+1. **Download the Executable:** Download the executable file and its depencencies through the link below:
 
    [Download Executable](https://drive.google.com/file/d/1p0SrIhrkX8Tckz-NOnnXb4qC0Sunk1_M/view?usp=sharing)
    
