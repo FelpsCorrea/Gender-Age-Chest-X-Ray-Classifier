@@ -16,7 +16,7 @@ This executable application was developed as a final project for a Computer Scie
 
 1. **Download the Executable:** Download the executable file and its depencencies through the link below:
 
-   [Download Executable](https://drive.google.com/file/d/1p0SrIhrkX8Tckz-NOnnXb4qC0Sunk1_M/view?usp=sharing)
+   [Download Executable](https://drive.google.com/drive/folders/1e7eciKFjn-9pKMuL6-NKrD1oEM4lgbuu?usp=sharing)
    
    Save the file to a directory of your choice on your computer.
 
